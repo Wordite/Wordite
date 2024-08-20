@@ -1,12 +1,6 @@
 https://wordite.ru
 
-- 👋 Hi, I’m @Wordite
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
+It's still a bit empty, but soon this place will be filled with sources from my live coding videos
 
 <!---
 Wordite/Wordite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
