@@ -22,7 +22,7 @@ I love bringing ideas to life using modern tech — and yeah, I’m a big fan of
 ## 🌐 Connect & Explore
 
 - GitHub: [github.com/Wordite](https://github.com/Wordite)  
-- Website / portfolio: *coming soon / TBD*  
+- Website / portfolio: [wordite.ru](https://wordite.ru)
 - Always open to collabs, ideas & fun side-projects  
 
 ---
